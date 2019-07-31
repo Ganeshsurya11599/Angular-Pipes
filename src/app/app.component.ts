@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Pipes';
+  title = 'pipes';
+  name = 'A.Ganeshsurya';
+  date = new Date();
+  person = {
+    "firstName": "A.Ganesh",
+    "lastName": "surya"
+  };
+  number = '123456789';
+
+  power ="";
+  factor="";
 }

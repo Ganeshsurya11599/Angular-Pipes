@@ -1,0 +1,17 @@
+.container-fluid{
+    background: linear-gradient(125deg, #F5833C, #3CD0F5, #923CF5);
+}
+h3{
+    color: deeppink;
+    text-decoration-color: red;
+    text-decoration-line: underline;
+}
+p{
+    color:white; 
+}
+h1{
+    color: lavender;
+}
+h4{
+    color: rgb(32, 44, 218);
+}
